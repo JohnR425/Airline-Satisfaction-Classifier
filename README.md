@@ -1,6 +1,8 @@
 # Airline Satisfaction Classifier
 A machine learning model capable of classifying whether a passenger will be satisfied with an airline or not given a variety of data such as passenger age and ticket class. I utilized Snowflake for database storage and basic preprocessing and Databricks for preprocessing on dataframes and ML model training, testing and visualization.
 
+[**Databricks Notebook**](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4158641153318707/3185215408621267/2729803409437195/latest.html)
+
 ## 1.) Dataset Preparation and Basic Preprocessing
 The [Airline Satisfaction dataset](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) from **Kaggle** was chosen for training, which includes 129,880 entries and 20+ features, which I found to be both sufficiently large and complex.
 
